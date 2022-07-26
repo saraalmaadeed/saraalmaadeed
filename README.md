@@ -22,7 +22,7 @@
 
 <h3 align="left">About me:</h3>
 <p align="left"> I enjoy playing and designing video games.
-<p align="left"> I have been a competitive debater since 2020.
+<p align="left"> I have been a competitive debater since late 2020.
 <p align="left"> I play oud and bass guitar and enjoy listening to rock music!
 
 <p align="left"><img width="300" alt="VgFix" src="https://user-images.githubusercontent.com/68820968/181122924-56dbcfb1-9211-4204-8267-cbd4c362bc21.png">
