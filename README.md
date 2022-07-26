@@ -31,3 +31,4 @@
 ---
 
 <h3 align="left">Thank you for visiting my profile <3</h3>
+<p align="center"><img width="300" alt="Bye" src="https://user-images.githubusercontent.com/68820968/181124429-c69d3201-5371-47d3-abee-2a793c027fec.png">
