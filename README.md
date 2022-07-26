@@ -29,3 +29,5 @@
 <img width="300" alt="DebatingFix" src="https://user-images.githubusercontent.com/68820968/181122873-76d3c64a-6a5e-44fe-9899-355f7ec237ce.png">
 
 ---
+
+<h3 align="left">Thank you for visiting my profile <3</h3>
