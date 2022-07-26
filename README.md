@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Sara Almaadeed</h1>
-<h3 align="center">CompEng @ Qatar University</h3>
+<h3 align="center">Studying CompEng @ Qatar University</h3>
 
 <p align="center"> <img width="300" alt="meFix" src="https://user-images.githubusercontent.com/68820968/181120459-a32a5412-2c75-47d4-bdca-35bac3e65fb3.png">
 
