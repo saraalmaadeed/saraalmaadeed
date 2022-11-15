@@ -11,10 +11,9 @@
 ---
 
 <h3 align="left">About me:</h3>
-<p align="left"> I enjoy playing and designing video games.
-<p align="left"> I want to work in machine learning models, especially its overlap with the natural sciences & engineering.
+<p align="left"> I am interested in engineering neural networks, NLP, and multidisciplinary projects.
 <p align="left"> I have been a competitive debater since late 2020.
-<p align="left"> I play oud and bass guitar and enjoy listening to rock music!
+<p align="left"> I enjoy listening to rock music!
 
 <p align="center"><img width="300" alt="VgFix" src="https://user-images.githubusercontent.com/68820968/181122924-56dbcfb1-9211-4204-8267-cbd4c362bc21.png">
 
