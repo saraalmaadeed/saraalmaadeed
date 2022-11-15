@@ -20,4 +20,4 @@
  
 <h3 align="center">Thank you for visiting my profile : ) </h3>
 <p align="center"><img width="300" alt="VgFix" src="https://user-images.githubusercontent.com/68820968/181122924-56dbcfb1-9211-4204-8267-cbd4c362bc21.png">
-<p https://profile-counter.glitch.me/saraalmaadeed/count.svg >
+<p ![Visitor Count](https : //profile-counter.glitch.me/saraalmaadeed/count.svg) >
