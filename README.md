@@ -19,4 +19,4 @@
 ---
 <p align="center"> <a href="https://instagram.com/saraalmaadeed" target="blank"><img src="https://img.shields.io/badge/instagram-saraalmaadeed-blueviolet" alt="saraalmaadeed" /> <a href="https://twitter.com/thara_sara" target="blank"><img src="https://img.shields.io/badge/twitter-thara__sara-blue" alt="thara_sara" /> <img src="https://img.shields.io/badge/gmail-sara100qr%40gmail.com-red" alt="sara100qr@gmail.com" />
  
-<h3 align="left">Thank you for visiting my profile : ) </h3>
+<h3 align="center">Thank you for visiting my profile : ) </h3>
