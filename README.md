@@ -1,7 +1,4 @@
 <h1 align="left">Welcome</h1>
-<h3 align="left">Computer Engineering Student @ Qatar University</h3>
- 
----
   
 <h3 align="left">Languages & tools:</h3>
 <p align="left">C#
