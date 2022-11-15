@@ -1,7 +1,5 @@
 <h1 align="center">Hello, I'm Sara Almaadeed</h1>
 <h3 align="center">Studying CompEng @ Qatar University</h3>
-
-<p align="center"> <img width="300" alt="meFix" src="https://user-images.githubusercontent.com/68820968/181120459-a32a5412-2c75-47d4-bdca-35bac3e65fb3.png">
  
 ---
   
@@ -20,7 +18,6 @@
 <p align="left"> I play oud and bass guitar and enjoy listening to rock music!
 
 <p align="left"><img width="300" alt="VgFix" src="https://user-images.githubusercontent.com/68820968/181122924-56dbcfb1-9211-4204-8267-cbd4c362bc21.png">
-<img width="300" alt="DebatingFix" src="https://user-images.githubusercontent.com/68820968/181122873-76d3c64a-6a5e-44fe-9899-355f7ec237ce.png">
 
 ---
 
