@@ -1,5 +1,5 @@
 <h1 align="center">Sara Almaadeed</h1>
-<h3 align="center">Studying CompEng @ Qatar University</h3>
+<h3 align="center">Computer Engineering Student @ Qatar University</h3>
  
 ---
   
