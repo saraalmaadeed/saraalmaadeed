@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Sara Almaadeed</h1>
+<h1 align="center">Sara Almaadeed</h1>
 <h3 align="center">Studying CompEng @ Qatar University</h3>
  
 ---
